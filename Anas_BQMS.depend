@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1708551501 source:d:\anas\iti_44\oop\proj\anas_bqms\main.cpp
+	<iostream>
+	"Teller.h"
+	"Customer.h"
+	"CustomerLinkedList.h"
+	"TellerLinkedList.h"
+	"CusromerNode.h"
+	"TellerNode.h"
+	"Bank.h"
+
+1708544601 d:\anas\iti_44\oop\proj\anas_bqms\include\teller.h
+	"CustomerLinkedList.h"
+
+1708543064 d:\anas\iti_44\oop\proj\anas_bqms\include\customerlinkedlist.h
+	"CusromerNode.h"
+
+1708454452 d:\anas\iti_44\oop\proj\anas_bqms\include\cusromernode.h
+	"Customer.h"
+
+1708541495 d:\anas\iti_44\oop\proj\anas_bqms\include\customer.h
+	"Teller.h"
+
+1708543064 d:\anas\iti_44\oop\proj\anas_bqms\include\tellerlinkedlist.h
+	"TellerNode.h"
+	"Teller.h"
+
+1708454452 d:\anas\iti_44\oop\proj\anas_bqms\include\tellernode.h
+	"Teller.h"
+
+1708551697 d:\anas\iti_44\oop\proj\anas_bqms\include\bank.h
+	"TellerLinkedList.h"
+	"CustomerLinkedList.h"
+	"Teller.h"
+	<iostream>
+
